@@ -342,3 +342,24 @@
 | yearmonth         |      |         |
 
 
+### ansi_metro1_cbsa_july_2015.xls
+
+| column                                     | type | example |
+|--------------------------------------------|------|---------|
+| cbsa_code                                  |      |         |
+| CBSA Code                                  |      |         |
+| metropolitan_division_code                 |      |         |
+| csa_code                                   |      |         |
+| cbsa_title                                 |      |         |
+| metropolitan_micropolitan_statistical_area |      |         |
+| metropolitan_division_title                |      |         |
+| csa_title                                  |      |         |
+| county_county_equivalent                   |      |         |
+| state_name                                 |      |         |
+| state_name_state_names                     |      |         |
+| fips_state_code                            |      |         |
+| fips_county_code                           |      |         |
+| central_outlying_county                    |      |         |
+
+
+
