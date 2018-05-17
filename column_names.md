@@ -362,4 +362,15 @@
 | central_outlying_county                    |      |         |
 
 
+### web-analytics-for-sfgov-sites-2015-q1-q2-q3-q4-1.csv
+
+| column           | type | example |
+|------------------|------|---------|
+| page_title       |      |         |
+| pageviews        |      |         |
+| unique_pageviews |      |         |
+| avg_time_on_page |      |         |
+| entrances        |      |         |
+| bounce_rate      |      |         |
+| exit             |      |         |
 
